@@ -1,0 +1,95 @@
+University,Name,Department,Rank,Sex,Title,Pronouns,URL,Face,Smile
+Cornell,Sanjeev Bhojraj,accounting,Full,Male,"Alumni Professor in Asset Management
+Faculty Co-Director of the Parker Center for Investment Research","['he', 'his', 'he', 'he', 'he', 'he', 'his']",https://www.johnson.cornell.edu/faculty-research/faculty/sb235/,1,0
+Cornell,Robert J. Bloomfield,accounting,Full,Male,"Nicholas H. Noyes Professor of Management
+Area Chair for Accounting
+Co-Editor, Journal of Financial Reporting",['he'],https://www.johnson.cornell.edu/faculty-research/faculty/rjb9/,1,1
+Cornell,Nicholas Matthew Guest,accounting,Assistant,Male,Assistant Professor,"['his', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/nmg75/,1,1
+Cornell,Ryan Guggenmos,accounting,Assistant,Male,Assistant Professor,"['his', 'he', 'his', 'he', 'his', 'his', 'his', 'he', 'his']",https://www.johnson.cornell.edu/faculty-research/faculty/rdg222/,1,1
+Cornell,Robert Libby,accounting,Full,Male,David A. Thomas Professor of Management,"['his', 'his', 'his', 'his', 'his', 'he', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/rl54/,1,1
+Cornell,Yao Lu,accounting,Assistant,Male,Assistant Professor,"['his', 'he', 'he', 'his', 'his', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/yl2269/,1,1
+Cornell,Mark W. Nelson,accounting,Full,Male,"Professor of Accounting
+S.C. Johnson Family Professor of Management","['he', 'his', 'his', 'he', 'he', 'his', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/mwn2/,1,1
+Cornell,Kristina Marie Rennekamp,accounting,Full,Female,Professor,"['her', 'she', 'she', 'her', 'she', 'her', 'she']",https://www.johnson.cornell.edu/faculty-research/faculty/kmr52/,1,0
+Cornell,Mani Sethuraman,accounting,Assistant,Male,Assistant Professor,"['his', 'he', 'he', 'his', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/ss3647/,1,1
+Cornell,P. Eric Yeung,accounting,Full,Male,"Professor
+Faculty Director of the Cornell-Tsinghua Finance MBA",['his'],https://www.johnson.cornell.edu/faculty-research/faculty/pey4/,1,0
+Cornell,Xinyu Zhang,accounting,Assistant,Female,Assistant Professor,"['her', 'her', 'she']",https://www.johnson.cornell.edu/faculty-research/faculty/xz687/,1,1
+Cornell,Warren B. Bailey,finance,Full,Male,"Professor
+Co-Editor, Journal of Financial Services Research
+Krause Faculty Fellow in Real Estate Management, SC Johnson College of Business","['he', 'he', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/wbb1/,1,1
+Cornell,Matthew Baron,finance,Assistant,Male,Assistant Professor,"['his', 'he', 'he', 'his', 'his', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/mdb327/,1,1
+Cornell,Murillo Campello,finance,Full,Male,"Lewis H. Durland Professor of Management
+Managing Editor, Journal of Financial Intermediation","['his', 'he', 'he', 'his', 'his', 'he', 'he', 'his']",https://www.johnson.cornell.edu/faculty-research/faculty/mnc35/,1,1
+Cornell,Will Cong,finance,Associate,Male,"Associate Professor of Finance
+Rudd Family Professor of Management
+Academic Director of Fintech at Cornell Initiative
+Department Editor, Management Science","['he', 'he', 'his', 'he', 'his', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/lc898/,1,0
+Cornell,Adrian Aycan Corum,finance,Assistant,Male,Assistant Professor,"['he', 'his', 'his', 'he', 'his', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/aac256/,1,1
+Cornell,Ming Huang,finance,Full,Male,Professor,"['he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/mh375/,1,1
+Cornell,Robert A. Jarrow,finance,Full,Male,"Ronald P. & Susan E. Lynch Professor of Investment Management
+IAFE Senior Fellow, International Association of Financial Engineers","['he', 'he', 'he', 'his', 'he', 'his', 'he', 'he', 'he', 'he', 'his', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/raj15/,1,1
+Cornell,Andrew Karolyi,finance,Full,Male,"Harold Bierman, Jr. Distinguished Professor of Management
+Charles Field Knight Dean of the Cornell SC Johnson College of Business","['he', 'his', 'he', 'he', 'he', 'he', 'he', 'his', 'he', 'his']",https://www.johnson.cornell.edu/faculty-research/faculty/gak56/,0,1
+Cornell,Maureen O’Hara,finance,Full,Female,"Professor
+Robert W. Purcell Professor of Management","['she', 'she', 'she', 'her', 'she', 'she', 'she', 'she', 'she', 'she', 'she']",https://www.johnson.cornell.edu/faculty-research/faculty/mo19/,1,1
+Cornell,Gideon Saar,finance,Full,Male,"Professor of Finance
+Dr. Philip and Rosalyn Baron Professor of Management
+Co-Editor, Journal of Financial Markets","['his', 'his', 'he', 'his', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/gs25/,1,1
+Cornell,Gautam Ahuja,management-and-organizations,Full,Male,Eleanora and George Landew Professor of Management,"['he', 'his', 'he', 'his', 'he', 'he', 'he', 'he', 'he', 'he', 'he', 'his']",https://www.johnson.cornell.edu/faculty-research/faculty/ga337/,0,1
+Cornell,Ya-Ru Chen,management-and-organizations,Full,Female,"Nicholas H. Noyes Professor of Management
+Academic Dean of China Initiatives","['she', 'her', 'she', 'she', 'her', 'her', 'she', 'her', 'she']",https://www.johnson.cornell.edu/faculty-research/faculty/yc659/,1,1
+Cornell,Glen W.S. Dowell,management-and-organizations,Full,Male,"Henrietta Johnson Louis Professor of Management
+Senior Director of MBA and MPS Programs
+Co-Editor, Strategic Organization","['he', 'he', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/gwd39/,1,0
+Cornell,Michelle M. Duguid,management-and-organizations,Associate,Female,"Associate Professor
+Associate Dean of Diversity, Inclusion, and Belonging","['she', 'her', 'her', 'she', 'her']",https://www.johnson.cornell.edu/faculty-research/faculty/mmd49/,0,0
+Cornell,Angus Hildreth,management-and-organizations,Assistant,Male,Assistant Professor,"['he', 'his', 'his', 'he', 'his', 'his', 'he', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/jdh362/,1,0
+Cornell,Elizabeth McClean,management-and-organizations,Associate,Female,Associate Professor,[],https://www.johnson.cornell.edu/faculty-research/faculty/ejm45/,1,0
+Cornell,Elizabeth A. Mannix,management-and-organizations,Full,Female,Ann Whitney Olin Professor of Management,"['her', 'she', 'her', 'she', 'she', 'she']",https://www.johnson.cornell.edu/faculty-research/faculty/eam33/,1,1
+Cornell,Matt Marx,management-and-organizations,Full,Male,"Bruce F. Failing, Sr. Professor of Personal Enterprise","['he', 'he', 'he', 'his', 'his', 'his']",https://dyson.cornell.edu/faculty-research/faculty/mtm83/,1,0
+Cornell,Sunita Sah,management-and-organizations,Associate,Female,Associate Professor,"['her', 'she']",https://www.johnson.cornell.edu/faculty-research/faculty/ss3478/,1,1
+Cornell,Wesley David Sine,management-and-organizations,Full,Male,"John and Dyan Smith Professor of Management and Family Business
+Faculty Director of Entrepreneurship Innovation and Technology Theme
+Academic Director of the Smith Family Business Institute
+Managing Editor, Administrative Science Quarterly","['his', 'he', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/wds4/,1,1
+Cornell,Tommaso Bondi,marketing,Assistant,Male,"Assistant Professor
+Demir Sabanci Faculty Fellow of Marketing and Management, SC Johnson College of Business","['he', 'he', 'his', 'he', 'he', 'his']",https://www.johnson.cornell.edu/faculty-research/faculty/tb558/,1,0
+Cornell,Khaled Boughanmi,marketing,Assistant,Male,Assistant Professor,"['his', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/kb746/,1,0
+Cornell,Emily Garbinsky,marketing,Associate,Female,Associate Professor,"['she', 'she', 'she', 'she', 'she', 'she', 'her', 'she', 'she', 'she', 'she']",https://www.johnson.cornell.edu/faculty-research/faculty/eng26/,1,1
+Cornell,Sachin Gupta,marketing,Full,Male,Henrietta Johnson Louis Professor of Management,"['his', 'his', 'his', 'he', 'his', 'his', 'he', 'he', 'he', 'he', 'he', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/sg248/,1,1
+Cornell,Vrinda Kadiyali,marketing,Full,Female,"Nicholas H. Noyes Professor of Management
+Director of Graduate Studies for the Graduate Field of Management","['her', 'she', 'she', 'she', 'she']",https://www.johnson.cornell.edu/faculty-research/faculty/vk24/,1,1
+Cornell,Young-Hoon Park,marketing,Full,Male,Sung-Whan Suh Professor of Management,"['his', 'his', 'he', 'his', 'he', 'he', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/yp34/,1,0
+Cornell,Omid Rafieian,marketing,Assistant,Male,"Assistant Professor
+Demir Sabanci Faculty Fellow of Marketing and Management, SC Johnson College of Business",[],https://www.johnson.cornell.edu/faculty-research/faculty/or83/,1,1
+Cornell,Douglas M. Stayman,marketing,Associate,Male,Associate Professor,"['his', 'he', 'his', 'his', 'he', 'his', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/dms43/,1,1
+Cornell,Manoj Thomas,marketing,Full,Male,"Professor
+Senior Director of EMBA and MSBA Programs
+Nakashimato Professor","['his', 'he', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/mkt27/,1,1
+Cornell,Stijn M.J. van Osselaer,marketing,Full,Male,"S.C. Johnson Professor of Marketing
+Area Chair for Marketing and Management Communication","['he', 'his', 'his', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/smv64/,1,1
+Cornell,Kaitlin Woolley,marketing,Associate,Female,Associate Professor,"['she', 'her', 'her', 'she', 'her', 'her', 'she', 'she', 'her']",https://www.johnson.cornell.edu/faculty-research/faculty/krw67/,1,0
+Cornell,Arielle Anderer,operations-technology-information-management,Assistant,Female,Assistant Professor,"['her', 'her', 'her', 'she', 'her']",https://www.johnson.cornell.edu/faculty-research/faculty/aea68/,1,1
+Cornell,Li Chen,operations-technology-information-management,Full,Male,"Professor
+Emerson Professor of Manufacturing Management
+Area Chair for Operations, Technology, and Information Management
+Breazzano Family Term Professor of Management","['he', 'his', 'he', 'his', 'he', 'his']",https://www.johnson.cornell.edu/faculty-research/faculty/lc785/,1,1
+Cornell,Yao Cui,operations-technology-information-management,Assistant,Male,Assistant Professor,"['his', 'his', 'his', 'he', 'he', 'he', 'his', 'his']",https://www.johnson.cornell.edu/faculty-research/faculty/yc2268/,1,0
+Cornell,Andrew M. Davis,operations-technology-information-management,Associate,Male,"Associate Professor
+Director of the Business Simulation Laboratory","['his', 'he', 'his', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/amd365/,1,1
+Cornell,Vishal Gaur,operations-technology-information-management,Full,Male,"Professor
+Anne and Elmer Lindseth Dean of the Johnson Graduate School of Management","['his', 'he', 'his', 'he', 'his', 'he', 'he', 'his', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/vg77/,1,0
+Cornell,Karan Girotra,operations-technology-information-management,Full,Male,"Charles H. Dyson Family Professor of Management
+Department Editor, Management Science
+Department Editor, Service Science","['he', 'he', 'his', 'his', 'his', 'he', 'his', 'his']",https://www.johnson.cornell.edu/faculty-research/faculty/kg488/,1,1
+Cornell,Yichun Hu,operations-technology-information-management,Assistant,Female,Assistant Professor,[],https://business.cornell.edu/faculty-research/faculty/yh767/,1,1
+Cornell,Nur Kaynar,operations-technology-information-management,Assistant,Female,Assistant Professor,[],https://www.johnson.cornell.edu/faculty-research/faculty/sk2739/,1,0
+Cornell,Adam Dearing,economics,Assistant,Unknown,Assistant Professor,[],https://www.johnson.cornell.edu/faculty-research/faculty/aed237/,1,0
+Cornell,Yi Chen,economics,Assistant,Male,"Assistant Professor
+Half Century Faculty Research Fellowship, Samuel Curtis Johnson Graduate School of Management","['he', 'his', 'his']",https://www.johnson.cornell.edu/faculty-research/faculty/yc2535/,1,1
+Cornell,Ori Heffetz,economics,Associate,Male,Associate Professor,"['he', 'he', 'he', 'his', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/oh33/,1,1
+Cornell,Justin P. Johnson,economics,Full,Male,Deane W. Malott Professor of Management,"['his', 'his', 'he', 'he', 'his', 'he', 'his', 'his']",https://www.johnson.cornell.edu/faculty-research/faculty/jpj25/,1,0
+Cornell,Thomas Jungbauer,economics,Assistant,Male,Assistant Professor,"['he', 'he', 'his', 'his', 'his', 'he', 'he', 'his', 'he', 'his', 'he', 'his', 'his', 'he', 'his', 'he', 'he', 'his', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/tj268/,1,1
+Cornell,Marcel Preuss,economics,Assistant,Male,Assistant Professor,"['his', 'he', 'he', 'he', 'his', 'he', 'his', 'his', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/mp2222/,1,0
+Cornell,Michael Waldman,economics,Full,Male,Charles H. Dyson Professor of Management,"['he', 'his', 'his', 'he', 'his', 'his', 'he', 'he', 'he', 'he', 'his', 'he', 'he', 'he', 'he', 'he', 'his', 'he', 'he', 'he', 'he', 'he', 'he']",https://www.johnson.cornell.edu/faculty-research/faculty/mw46/,1,1
